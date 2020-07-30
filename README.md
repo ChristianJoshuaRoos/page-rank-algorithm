@@ -9,5 +9,9 @@ In order to compile and run the program, type:
 javac PowerIterator.java
 java PowerIterator <name of file>.
 
+In order to compile and run the program with teleportation, type: 
+javac PowerIteratorWithTeleportation.java
+java PowerIteratorWithTeleportation <name of file>.
+
 The results containing the page ranks should be sent to a file named "output.txt". 
-This file will be overwritten each time PowerIterator is run.  
+This file will be overwritten each time either PowerIterator or PowerIteratorWithTeleportation is run.  
