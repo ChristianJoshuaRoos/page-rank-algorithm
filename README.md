@@ -1,5 +1,11 @@
 # page-rank-algorithm
 
+I have written a Power Iterator algorithm and a Power Iterator with Teleportation algorithm.  
+Each iteratively ranks web pages based on the structure of the associated web graph.  Such 
+algorithms are useful tools for determining which websites are frequently visited by people
+using the Internet.  The complexity of the algorithm resides in the matrix multiplication
+that is used to determine the rankings.
+
 In order for the program to determine the page ranks, an input file must be present in the 
 same directory containing an edge list.  Each page in the edge list must be represented by
 indices beginning with index 0 and having continuous indices with no breaks--e.g., the first
