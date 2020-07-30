@@ -1,0 +1,9 @@
+For problem 2, the following list describes how many iterations it took for each
+input graph to achieve convergence.  With teleportation, the number of iterations
+dramatically decreases.  
+
+File						Number of Iterations
+threeVertexGraph			8
+threeVertexGraphSpiderTrap	12
+threeVertexGraphDeadEnd		3
+sevenVertexGraph			7

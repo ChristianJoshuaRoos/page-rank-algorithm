@@ -1,0 +1,8 @@
+For problem 1, the following list describes how many iterations it took for each
+input graph to achieve convergence.
+
+File						Number of Iterations
+threeVertexGraph			13
+threeVertexGraphSpiderTrap	100
+threeVertexGraphDeadEnd		100
+sevenVertexGraph			100
